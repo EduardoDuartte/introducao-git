@@ -23,5 +23,12 @@ Adiciona o repositório remoto como origem
 git push -u origin main ou git push -u origin nome_da_sua_branch
 Envia o código para o GitHub
 
+
 git checkout -b nome_da_branch
 Cria e muda para uma nova branch
+
+
+
+git checkout nome_da_branch
+muda para uma nova branch
+
