@@ -22,11 +22,3 @@ Adiciona o repositório remoto como origem
 
 git push -u origin main ou git push -u origin nome_da_sua_branch
 Envia o código para o GitHub
-
-
-Digite seu nome de usuário e senha do GitHub, se solicitado
-Faça login no GitHub, se necessário
-
-
-Faça login no GitHub, se necessário
-As alterações devem aparecer no seu repositório no GitHub
